@@ -7,6 +7,7 @@ import Article from './components/Article/Article';
 function App() {
   return (
     <main className="app">
+      <p>123</p>
       <Welcome />
       <Header />
       <Article />
