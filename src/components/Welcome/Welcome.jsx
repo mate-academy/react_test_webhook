@@ -3,7 +3,7 @@ import './Welcome.css';
 
 function Welcome() {
   return (
-    <section className="welcome11">
+    <section className="welcome">
       <span className="welcome__text">Sticky Header!</span>
     </section>
   );
