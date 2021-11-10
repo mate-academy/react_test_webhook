@@ -1,7 +1,7 @@
 os: linux
 arch:
   - ppc64le
-language: javascript
+language: java
 jdk:
   - openjdk11
 script:
